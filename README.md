@@ -18,3 +18,6 @@ En esta fase se ve el manejo de apis y un poco sobre el script en powershell
 [Nmap](https://github.com/Chuyinnnnnnnnnnnn/LABORATORIOPIA/tree/master/Nmap)
 
 [FTP](https://github.com/Chuyinnnnnnnnnnnn/LABORATORIOPIA/tree/master/FTP)
+
+### Fase 3
+[Escaneo de puertos](https://github.com/Chuyinnnnnnnnnnnn/LABORATORIOPIA/tree/master/Escaner_de_puertos)
