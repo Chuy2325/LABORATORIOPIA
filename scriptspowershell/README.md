@@ -22,3 +22,15 @@ Muestra información sobre la subred actual y el rango que se va a escanear.
 Escanea cada dirección IP en el rango de subred.
 Utiliza Test-Connection para verificar si cada host responde a una prueba de conexión ICMP.
 Si un host responde, muestra el mensaje "Host responde:" seguido de la dirección IP en color verde.
+
+## [link script 3](https://github.com/Chuyinnnnnnnnnnnn/LABORATORIOPIA/blob/master/scriptspowershell/scan_portv1.ps1) Este script trata de lo siguiente:
+Obtiene la dirección IP del gateway de red.
+Muestra en la consola el mensaje "==Determinando tu gateway ..." seguido de la dirección IP obtenida.
+Calcula el rango de subred correspondiente al gateway.
+Muestra en la consola el mensaje "==Determinando tu rango de subred ..." seguido del valor del rango de subred.
+Verifica si el rango termina con un punto decimal y, de lo contrario, lo agrega.
+Crea un arreglo de puertos a escanear.
+Establece un tiempo de espera para la conexión.
+Solicita al usuario ingresar una dirección IP para escanear.
+Escanea cada puerto en la lista de puertos para ver si está abierto en la dirección IP especificada.
+Si un puerto está abierto, muestra en la consola el mensaje "Puerto abierto:" seguido del número del puerto en color verde.
