@@ -4,7 +4,7 @@
 ### Fase 1
 En esta fase se ve el manejo de apis y un poco sobre el script en powershell
 
-[PS](https://github.com/Chuyinnnnnnnnnnnn/LABORATORIOPIA/blob/master/scriptspowershell/README.md)
+[PS](https://github.com/Chuyinnnnnnnnnnnn/LABORATORIOPIA/tree/master/scriptspowershell)
 
 ### Fase 2
 [bash](https://github.com/Chuyinnnnnnnnnnnn/LABORATORIOPIA/tree/master/scriptsbash)
